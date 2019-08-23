@@ -799,9 +799,9 @@ figure.effect:hover p {
 /* Container for image text */
 .caption-container3 {
   text-align: center;
-  background-color: #222;
+  background-color: #434242;
   padding: 2px 16px;
-  color: white;
+  color: #FFFFFF;
 }
 
 .row:after {
